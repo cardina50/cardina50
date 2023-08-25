@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cardina50
-- 👀 I’m interested in extracting meaningful insights from data.
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m passionate about data analytics, extracting meaningful insights from data, and helping businesses make better sense of the data they collect. 
+- 🌱 
+- 💞️
 
 <!---
 cardina50/cardina50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
